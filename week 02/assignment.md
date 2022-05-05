@@ -13,3 +13,6 @@ When the value of neuron is 1 and 100, the accuracy of the test set and training
 ### 100 neutron
 
 ![100](https://user-images.githubusercontent.com/81423727/166951215-c4db74cf-d2cf-46d7-8c05-a9b5b617353b.png)
+
+
+![15000](https://user-images.githubusercontent.com/81423727/167024270-07d92f5b-31e8-49c1-a3c9-e995ca70c3ab.png)
